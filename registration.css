@@ -1,0 +1,35 @@
+body{
+    background-image: url(images1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1400px 800px;
+}
+h1{
+    color: rgb(164, 164, 4);
+    font-size: 65px;
+    margin-left: 25px;
+}
+label{
+    color: rgb(126, 38, 45);
+    font-size: 32px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+input{
+    height: 20px;
+    width: 300px;
+    color: antiquewhite;
+    margin-left: 25px;
+}
+button{
+    color: rgb(54, 82, 176);
+    font-size: 30px;
+    height: 40px;
+    width: 180px;
+    border-radius: 15px;
+    font-style: bold;
+    margin-left: 25px;
+}
+p{
+    font-size: 25px;
+    margin-left: 25px;
+}

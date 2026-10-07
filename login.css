@@ -1,0 +1,36 @@
+button{
+    color: rgb(30, 3, 202);
+    font-size: 30px;
+    height: 40px;
+    width: 150px;
+    border-radius: 15px;
+    font-style: bold;
+    margin-left: 25px;
+}
+body{
+    background-image: url(image31.webp);
+    background-repeat: no-repeat;
+    background-size: 1300px 700px;
+    margin-left: 700px;
+}
+label{
+    color: rgb(216, 225, 82);
+    font-size: 32px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+h1{
+    color: rgb(105, 179, 209);
+    font-size: 75px;
+    margin-left: 20px;
+}
+input{
+    height: 20px;
+    width: 300px;
+    color: antiquewhite;
+    margin-left: 25px;
+}
+p{
+    font-size: 27px;
+    margin-left: 25px;
+}

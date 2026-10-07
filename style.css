@@ -1,0 +1,26 @@
+body{
+    background-image: url(image41.webp);
+    background-repeat: no-repeat;
+    background-size: 1400px 800px;
+}
+h1{
+    color: aqua;
+    font-size: 38px;
+    margin-left: 430px;
+}
+h2{
+    color: aqua;
+    font-size: 27px;
+    margin-left: 430px;
+}
+
+button{
+    height: 40px;
+    width: 150px;
+    border-radius: 15px;
+    font-style: bold;
+    font-size: 20px;
+}
+#t1{
+    margin-left: 430px;
+}
